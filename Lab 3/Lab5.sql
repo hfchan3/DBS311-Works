@@ -3,7 +3,7 @@
 --              Henry Lau (121235238),
 --              Trung Kien Phan (123266231)
 -- Date: 23 May 2024
--- Purpose: Lab 2 DBS311 (Group 9)
+-- Purpose: Lab 3 DBS311 (Group 9)
 -- ***********************
 -- Question 1 – 
 
